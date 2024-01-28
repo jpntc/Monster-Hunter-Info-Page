@@ -1,2 +1,2 @@
-# Monster-Hunter-Info-Page
-Reuploaded fan site I made when I was first learning html and css.  
+# Monster-Hunter-Website
+A website I made during my free time that goes over a very overlooked game (gaming franchise). 
